@@ -7,7 +7,7 @@ A simple and responsive React application showcasing a dynamic pizza menu. It in
 
 📸 Preview
 
-![App Screenshot](./screenshot.png)
+![App Screenshot](./Screenshot.png)
 
 
 🚀 Features
