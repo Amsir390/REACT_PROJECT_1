@@ -30,6 +30,7 @@ A simple and responsive React application showcasing a dynamic pizza menu. It in
 ```bash
 git clone https://github.com/Amsir390/REACT_PROJECT_1.git
 cd fast-pizza-menu
+npm start
 
 📁 Project Structure
 
